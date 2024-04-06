@@ -1,0 +1,46 @@
+.raleway-header {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+.raleway-div {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #364762;
+}
+.raleway-footer {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+body {
+  background-color: f8f8ef;
+}
+header {
+  background: -webkit-linear-gradient(90deg, #8ab4f8, black);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding: 10%;
+  padding-top: 5%;
+  text-align: center;
+  font-size: 4rem;
+}
+div {
+  padding-left: 20%;
+  padding-right: 20%;
+  font-size: 1.5rem;
+  text-align: center;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #364762;
+  color: white;
+}
